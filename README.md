@@ -6,7 +6,7 @@
 
 Python Jupyter Notebook with **Convolutional Neural Network** digit recognizer implemented in **Keras**. It's [Google Colab](https://colab.research.google.com/) ready.
 
-Part of [Kaggle competition](https://www.kaggle.com/c/digit-recognizer). 
+Part of the [Kaggle competition](https://www.kaggle.com/c/digit-recognizer). 
 
 Submitted [Kernel](https://www.kaggle.com/greg115/digit-recognizer-keras-cnn-0-995) with 0.995 score.
 
