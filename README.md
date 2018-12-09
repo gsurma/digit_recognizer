@@ -10,6 +10,10 @@ Part of the [Kaggle competition](https://www.kaggle.com/c/digit-recognizer).
 
 Submitted [Kernel](https://www.kaggle.com/greg115/digit-recognizer-keras-cnn-0-995) with 0.995 score.
 
+Check out corresponding Medium article:
+
+[Digit Recognizer - Introduction to Kaggle Competitions with Image Classification Task (0.995)](https://towardsdatascience.com/digit-recognizer-introduction-to-kaggle-competitions-with-image-classification-task-0-995-268fa2b90e13)
+
 ## Data
 
 **Dataset:** [MNIST Handwritten digits](https://www.kaggle.com/c/digit-recognizer/data)
